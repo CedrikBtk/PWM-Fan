@@ -17,6 +17,9 @@ Zum Beispiel für HiFi-Verstärker ohne aktive Kühlung. So kann die Drehzahl de
 ## Einrichtung
 
 ### Hardware
+```
+
+```
 
 
 ### Software
