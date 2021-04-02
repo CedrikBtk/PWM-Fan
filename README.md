@@ -1,5 +1,5 @@
 # PWM-Fan
-Temperaturgesteuerte Lüftersteuerung - Lüfterdrehzahl mit Hilfe eines Arduinos<br>
+Temperaturgesteuerte Lüftersteuerung - Lüfterdrehzahl mit Hilfe eines Arduinos.<br>
 Zum Beispiel für HiFi-Verstärker ohne aktive Kühlung. So kann die Drehzahl des Lüfters je nach Belastung und Hitzeentwicklung automatisch angepasst werden.
 
 ## Benötigte Hardware
