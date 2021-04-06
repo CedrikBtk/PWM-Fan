@@ -9,7 +9,7 @@ Zum Beispiel für HiFi-Verstärker ohne aktive Kühlung. So kann die Drehzahl de
 <br>
 1x 4-pin PWM-Lüfter (PC-Lüfter mit 4-Pin Anschluss)
 <br>
-1x Wiederstand 10kOhm
+1x Widerstand 10kOhm
 <br>
 <h5>~ 30€ (ohne Lüfter unter 10€)</h5>
 
